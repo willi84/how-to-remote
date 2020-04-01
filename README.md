@@ -1,5 +1,7 @@
 # how-to-remoteworkshops
 A collection of tips &amp; tricks to organize a remote workshop.
+
+## Note
 Keep in mind: its a total different experience then workshops in real life.
 
 ## Tools
