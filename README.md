@@ -1,5 +1,6 @@
 # how-to-remoteworkshops
 A collection of tips &amp; tricks to organize a remote workshop.
+Keep in mind: its a total different experience then workshops in real life.
 
 ## Tools
 * [Zoom](https://zoom.us/)
@@ -28,6 +29,7 @@ A collection of tips &amp; tricks to organize a remote workshop.
 * **enough refreshment and moving**
 * **good office chair**
 * **2nd screen** can be useful
+* **be kind** if not everything is working perfect
 
 ## What to take care of organizing
 * **clear schedule** make a lot of breaks and event where people come together (lunch, coffee, raffling, lightning talks)
