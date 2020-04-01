@@ -55,6 +55,8 @@ Keep in mind: its a total different experience then workshops in real life.
 * **show organizers/mentors** e.g. with a small note in the names of video chat attendees
 * **avoid too many tools**
 * **clear invitation emails** check if everybody got credentials if needed
+* **track progress** do you need to slow down, does anyone need help? shy people will not always ask for help.
+* **raffle/certificates** make sure people will remember
 
 ## more links
 * [German school cloud](https://schul-cloud.org) of Hasso-Plattner instiute
