@@ -1,5 +1,5 @@
 # how-to-remoteworkshops
-A collection of Tips &amp; Tricks to organize a remote workshop.
+A collection of tips &amp; tricks to organize a remote workshop.
 
 ## Tools
 * [Zoom](https://zoom.us/)
