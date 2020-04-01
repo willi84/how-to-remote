@@ -25,6 +25,9 @@ A collection of Tips &amp; Tricks to organize a remote workshop.
 * **schedule deliveries** for other days
 * **avoid distraction** mute inbox, make an event in your calendar
 * **check-in and out** who is active, show it the others
+* **enough refreshment and moving**
+* **good office chair**
+* **2nd screen** can be useful
 
 ## What to take care of organizing
 * **clear schedule** make a lot of breaks and event where people come together (lunch, coffee, raffling, lightning talks)
@@ -46,4 +49,4 @@ A collection of Tips &amp; Tricks to organize a remote workshop.
 * **automatic caption** use them if offered (e.g. Google Meet has)
 * **timezone** take care of them, for some people it might be midnight
 * **show organizers/mentors** e.g. with a small note in the names of video chat attendees
-* **avoit too many tools**
+* **avoid too many tools**
