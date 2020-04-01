@@ -2,14 +2,15 @@
 A collection of Tips &amp; Tricks to organize a remote workshop.
 
 ## Tools
-* Zoom
-* Google Meet or Hangout
-* Skype
-* https://jitsi.org/
-* MS Teams
-* Youtube (for bigger events to stream, don't forget question option)
-* Slack (communication and 1:1)
-* Rocket-Chat (communication and 1:1)
+* [Zoom](https://zoom.us/)
+* [Google Meet](https://meet.google.com/) or [Hangout](https://hangouts.google.com/)
+* [Skype](https://www.skype.com/de/)
+* [Jitsi](https://jitsi.org/)
+* [MS Teams](https://products.office.com/de-de/microsoft-teams/group-chat-software)
+* [Youtube](https://www.youtube.com/) (for bigger events to stream, don't forget question option)
+* [Slack](https://slack.com/) (communication and 1:1)
+* [Rocket-Chat](https://rocket.chat/) (communication and 1:1)
+* [ICQ](https://icq.com/)
 
 ## What to take care of your desktop
 * **clean desktop** when you share your screen
@@ -23,6 +24,7 @@ A collection of Tips &amp; Tricks to organize a remote workshop.
 * **check sound and audio** before, headset might be useful
 * **schedule deliveries** for other days
 * **avoid distraction** mute inbox, make an event in your calendar
+* **check-in and out** who is active, show it the others
 
 ## What to take care of organizing
 * **clear schedule** make a lot of breaks and event where people come together (lunch, coffee, raffling, lightning talks)
@@ -37,5 +39,11 @@ A collection of Tips &amp; Tricks to organize a remote workshop.
 * **spread the word** and inspire others to do the same
 * **video first** its good to see people while speaking so motivate them to use it
 * **shared drive** for material, videos
+* **grid mode** of your video conference that everybody see each other
 * **installation party** before the event to make sure, everybody is ready to go
 * **mentors preperation** what to take care (here [my list](https://github.com/ng-girls/organizers-guide/blob/master/2-before-the-workshop/mentors_preperation.md) from usual workshops)
+* **older people** what is the best tech setup for them? bigger hardware, are they using apps?
+* **automatic caption** use them if offered (e.g. Google Meet has)
+* **timezone** take care of them, for some people it might be midnight
+* **show organizers/mentors** e.g. with a small note in the names of video chat attendees
+* **avoit too many tools**
