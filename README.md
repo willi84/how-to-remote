@@ -63,3 +63,4 @@ Keep in mind: its a total different experience then workshops in real life.
 
 ## more links
 * [German school cloud](https://schul-cloud.org) of Hasso-Plattner instiute
+* [Wheel of Names](https://wheelofnames.com/) ofr raffling 
