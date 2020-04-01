@@ -43,7 +43,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * **record talks** of introduction or lightning talks
 * **tech check** of your workshop setup the day before
 * **room for question** via chat, email
-* **motivate people**
+* **motivate people** make an introduction round or warm-up games
 * **check attendance** motivate people to let you know if they are attending
 * **spread the word** and inspire others to do the same
 * **video first** its good to see people while speaking so motivate them to use it
@@ -60,6 +60,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * **track progress** do you need to slow down, does anyone need help? shy people will not always ask for help.
 * **raffle/certificates** make sure people will remember
 * **prepare your material** make sample, small snippets, and let people go further if they stuck at one chapter
+* **check if people understand** what you were talking about. ask questions
 
 ## more links
 * [German school cloud](https://schul-cloud.org) of Hasso-Plattner instiute
