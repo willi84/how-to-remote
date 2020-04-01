@@ -50,3 +50,6 @@ A collection of Tips &amp; Tricks to organize a remote workshop.
 * **timezone** take care of them, for some people it might be midnight
 * **show organizers/mentors** e.g. with a small note in the names of video chat attendees
 * **avoid too many tools**
+
+## more links
+* [German school cloud](https://schul-cloud.org) of Hasso-Plattner instiute
