@@ -59,6 +59,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * **clear invitation emails** check if everybody got credentials if needed
 * **track progress** do you need to slow down, does anyone need help? shy people will not always ask for help.
 * **raffle/certificates** make sure people will remember
+* **prepare your material** make sample, small snippets, and let people go further if they stuck at one chapter
 
 ## more links
 * [German school cloud](https://schul-cloud.org) of Hasso-Plattner instiute
