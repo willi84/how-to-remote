@@ -15,6 +15,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * [Rocket-Chat](https://rocket.chat/) (communication and 1:1)
 * [ICQ](https://icq.com/)
 * [Visual Studio Code Live-Share](https://code.visualstudio.com/blogs/2017/11/15/live-share) for pair programming
+* [Stackblitz](https://stackblitz.com/) awesome and easy online editor
 
 ## What to take care of your desktop
 * **clean desktop** when you share your screen
