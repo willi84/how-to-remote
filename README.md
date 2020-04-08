@@ -17,6 +17,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * [Visual Studio Code Live-Share](https://code.visualstudio.com/blogs/2017/11/15/live-share) for pair programming
 * [Stackblitz](https://stackblitz.com/) awesome and easy online editor
 * [WebX](https://www.webex.com/de/video-conferencing.html)
+* [Google Jamboard](https://edu.google.com/intl/de_de/products/jamboard/) for working with post-its
 
 ## What to take care of your desktop
 * **clean desktop** when you share your screen
