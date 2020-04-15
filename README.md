@@ -19,6 +19,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * [WebX](https://www.webex.com/de/video-conferencing.html)
 * [Google Jamboard](https://edu.google.com/intl/de_de/products/jamboard/) for working with post-its
 * [Facebook Messenger Video Call App](https://about.fb.com/news/2020/04/messenger-desktop-app/)
+* [Team Viewer](https://www.teamviewer.com/de/)
 
 ## What to take care of your desktop
 * **clean desktop** when you share your screen
