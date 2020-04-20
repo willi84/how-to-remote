@@ -21,6 +21,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * [Facebook Messenger Video Call App](https://about.fb.com/news/2020/04/messenger-desktop-app/)
 * [Team Viewer](https://www.teamviewer.com/de/)
 * [Twitch](https://www.twitch.tv/)
+* [BigMarker](https://www.bigmarker.com/) - webinar software
 
 ## What to take care of your desktop
 * **clean desktop** when you share your screen
