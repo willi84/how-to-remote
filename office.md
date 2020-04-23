@@ -3,6 +3,7 @@ A collection of tips &amp; tricks to organize remote office.
 
 ## personal
 * schedule/take breaks
+* avoid sun reflection (take a jalousie/louvre or anti-reflective film for monitors)
 * schedule delivery and disturbs (from family etc.)
 * wear normal clothes to avoid embarrassing situations
 * stable Internet connection (LAN not WIFI)
