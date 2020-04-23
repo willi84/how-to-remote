@@ -18,3 +18,4 @@ A collection of tips &amp; tricks to organize remote office.
 * have social connections
   * have virtual coffee & lunch
   * if no quarantine: go to a cafe or co-working space to have social connection
+* door bell vs. head phones
