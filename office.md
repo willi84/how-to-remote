@@ -1,6 +1,9 @@
 # how-to remote office
 A collection of tips &amp; tricks to organize remote office.
 
+## company
+* avoid VPN traffic where possible (local development e.g., offline features)
+
 ## personal
 * schedule/take breaks
 * dont forget to eat and drink (serious) .. and healthy
