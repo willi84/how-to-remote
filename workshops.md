@@ -19,9 +19,12 @@ Keep in mind: its a total different experience then workshops in real life.
 * [WebX](https://www.webex.com/de/video-conferencing.html)
 * [Google Jamboard](https://edu.google.com/intl/de_de/products/jamboard/) for working with post-its
 * [Facebook Messenger Video Call App](https://about.fb.com/news/2020/04/messenger-desktop-app/)
+* Whatsapp - 8 users per video call
+* Discord
 * [Team Viewer](https://www.teamviewer.com/de/)
 * [Twitch](https://www.twitch.tv/)
 * [BigMarker](https://www.bigmarker.com/) - webinar software
+
 
 ## Event Types
 * single day (9 to 5) .. take care about time zones of participants
