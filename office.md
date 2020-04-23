@@ -3,6 +3,7 @@ A collection of tips &amp; tricks to organize remote office.
 
 ## personal
 * schedule/take breaks
+* schedule delivery and disturbs (from family etc.)
 * wear normal clothes to avoid embarrassing situations
 * stable Internet connection (LAN not WIFI)
 * office desk with good screen and comfortable chair (hint: have a look to gaming chairs)
