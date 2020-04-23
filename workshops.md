@@ -23,6 +23,12 @@ Keep in mind: its a total different experience then workshops in real life.
 * [Twitch](https://www.twitch.tv/)
 * [BigMarker](https://www.bigmarker.com/) - webinar software
 
+## Event Types
+* single day (9 to 5) .. take care about time zones of participants
+* split to multi-day just a few hours
+* mixture of one-and-one and self-learning
+
+
 ## What to take care of your desktop
 * **clean desktop** when you share your screen
 * **mute microphone** when you are not talking or go in the kitchen or bathroom (!)
