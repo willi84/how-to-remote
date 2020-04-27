@@ -18,7 +18,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * [Stackblitz](https://stackblitz.com/) awesome and easy online editor
 * [WebX](https://www.webex.com/de/video-conferencing.html)
 * [Google Jamboard](https://edu.google.com/intl/de_de/products/jamboard/) for working with post-its
-* [Facebook Messenger Video Call App](https://about.fb.com/news/2020/04/messenger-desktop-app/)
+* [Facebook Messenger Video Call App](https://about.fb.com/news/2020/04/messenger-desktop-app/) bzw. [Messenger Rooms](https://www.golem.de/news/messenger-rooms-facebooks-videokonferenzen-sind-fuer-50-teilnehmer-gedacht-2004-148085.html)
 * Whatsapp - 8 users per video call
 * Discord
 * [Team Viewer](https://www.teamviewer.com/de/)
