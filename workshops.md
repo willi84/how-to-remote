@@ -24,6 +24,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * [Team Viewer](https://www.teamviewer.com/de/)
 * [Twitch](https://www.twitch.tv/)
 * [BigMarker](https://www.bigmarker.com/) - webinar software
+* [Adobe connect meetings](https://www.adobe.com/de/products/adobeconnect/meetings.html)
 
 
 ## Event Types
