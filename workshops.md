@@ -26,6 +26,9 @@ Keep in mind: its a total different experience then workshops in real life.
 * [BigMarker](https://www.bigmarker.com/) - webinar software
 * [Adobe connect meetings](https://www.adobe.com/de/products/adobeconnect/meetings.html)
 
+### other tools
+* [Wheel of Names](https://wheelofnames.com/)
+
 
 ## Event Types
 * single day (9 to 5) .. take care about time zones of participants
