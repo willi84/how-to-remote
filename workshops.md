@@ -26,6 +26,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * [BigMarker](https://www.bigmarker.com/) - webinar software
 * [Adobe connect meetings](https://www.adobe.com/de/products/adobeconnect/meetings.html)
 * [Circuit](https://www.circuit.com/)
+* [BlueJeans](https://bluejeans.com/) - free trial
 
 ### other tools
 * [Wheel of Names](https://wheelofnames.com/)
