@@ -28,6 +28,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * [Circuit](https://www.circuit.com/)
 * [BlueJeans](https://bluejeans.com/) - free trial
 * [VotesUp](https://votesup.eu/)
+* [HumHub](https://www.humhub.com/de)
 
 ### other tools
 * [Wheel of Names](https://wheelofnames.com/)
