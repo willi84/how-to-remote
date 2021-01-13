@@ -30,6 +30,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * [VotesUp](https://votesup.eu/)
 * [HumHub](https://www.humhub.com/de)
 * [Gather Town](https://gather.town/)
+* [SenfCall](https://www.senfcall.de/)
 
 ### other tools
 * [Wheel of Names](https://wheelofnames.com/)
