@@ -31,6 +31,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * [HumHub](https://www.humhub.com/de)
 * [Gather Town](https://gather.town/)
 * [SenfCall](https://www.senfcall.de/)
+* [Lumi](https://www.lumiglobal.com/)
 
 ### other tools
 * [Wheel of Names](https://wheelofnames.com/)
