@@ -35,6 +35,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * [tree.fm](https://www.tree.fm/)
 * [wonder.me](wonder.me)
 * [Mentimeter](https://www.mentimeter.com/)
+* [Miro](https://miro.com/)
 
 ### other tools
 * [Wheel of Names](https://wheelofnames.com/)
