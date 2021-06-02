@@ -36,6 +36,7 @@ Keep in mind: its a total different experience then workshops in real life.
 * [wonder.me](wonder.me)
 * [Mentimeter](https://www.mentimeter.com/)
 * [Miro](https://miro.com/)
+* [Hoping](https://hopin.com/)
 
 ### other tools
 * [Wheel of Names](https://wheelofnames.com/)
