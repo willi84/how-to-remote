@@ -38,6 +38,9 @@ Keep in mind: its a total different experience then workshops in real life.
 * [Miro](https://miro.com/)
 * [Hopin](https://hopin.com/)
 
+#### Todo
+* https://t3n.de/news/videokonferenz-software-im-vergleich-1265241/
+
 ### other tools
 * [Wheel of Names](https://wheelofnames.com/)
 * https://dory.app/
